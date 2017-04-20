@@ -1,0 +1,2 @@
+model_checkpoint_path: "trsnet"
+all_model_checkpoint_paths: "trsnet"
